@@ -42,4 +42,7 @@ Expected should be like the following after done your work:
 5. Prediction
 ![Prediction](./doc/prediction.png)
 6. Successful run of the project in Azure Pipelines
-![Azure Pipelines](./doc/pipeline.png)
+
+
+### Video  link
+https://youtu.be/vyOPLK7icLk
